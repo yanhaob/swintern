@@ -98,3 +98,5 @@ export default function App() {
     </div>
   );
 }
+
+// It appears this file contains a React component instead of PostCSS configuration. Please verify the file content and its intended purpose.
